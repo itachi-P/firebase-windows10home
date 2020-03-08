@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434561563550",
+    "firebase_url": "https://ft-fs-win10home-01.firebaseio.com",
+    "project_id": "ft-fs-win10home-01",
+    "storage_bucket": "ft-fs-win10home-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434561563550:android:2593df797b62f1ffc6b48f",
+        "android_client_info": {
+          "package_name": "com.itachip.workwithfirestore01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434561563550-3qhqegm096d9kbhpm8rfl160273vga9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxpOhsToPwiMZmHme3Y841P8UwKYpzlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434561563550-3qhqegm096d9kbhpm8rfl160273vga9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
